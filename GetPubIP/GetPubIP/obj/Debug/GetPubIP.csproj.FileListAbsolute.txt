@@ -1,0 +1,6 @@
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GetPubIP\GetPubIP\bin\Debug\GetPubIP.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GetPubIP\GetPubIP\bin\Debug\GetPubIP.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GetPubIP\GetPubIP\obj\Debug\GetPubIP.csprojAssemblyReference.cache
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GetPubIP\GetPubIP\obj\Debug\GetPubIP.csproj.CoreCompileInputs.cache
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GetPubIP\GetPubIP\obj\Debug\GetPubIP.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GetPubIP\GetPubIP\obj\Debug\GetPubIP.pdb

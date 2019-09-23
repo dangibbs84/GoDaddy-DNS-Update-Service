@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPCheckHelper", "IPCheckHelper\IPCheckHelper.csproj", "{DAEB836D-B64D-45FA-AC72-AFA4624BC8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEB836D-B64D-45FA-AC72-AFA4624BC8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEB836D-B64D-45FA-AC72-AFA4624BC8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEB836D-B64D-45FA-AC72-AFA4624BC8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEB836D-B64D-45FA-AC72-AFA4624BC8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B9FBF1-CE3A-4D78-9CEB-84CA7F734E49}
+	EndGlobalSection
+EndGlobal

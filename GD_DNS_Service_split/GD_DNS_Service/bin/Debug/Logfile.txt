@@ -1,0 +1,466 @@
+30/07/2019 13:03:34: GoDaddy DNS Service Started
+30/07/2019 13:03:37: GoDaddy DNS Service Stopped <--!
+30/07/2019 13:10:22: GoDaddy DNS Service Started
+30/07/2019 13:11:23: API request failed with the reponse: Unprocessable Entity
+30/07/2019 13:12:03: GoDaddy DNS Service Stopped <--!
+30/07/2019 13:12:11: GoDaddy DNS Service Started
+30/07/2019 13:13:12: GoDaddy DNS A Record updated:94.2.128.193
+30/07/2019 13:14:11: No IP Change detected
+30/07/2019 13:15:12: No IP Change detected
+30/07/2019 13:16:11: No IP Change detected
+30/07/2019 13:17:11: No IP Change detected
+30/07/2019 13:18:11: No IP Change detected
+30/07/2019 13:19:11: No IP Change detected
+30/07/2019 13:20:11: No IP Change detected
+30/07/2019 13:21:11: No IP Change detected
+30/07/2019 13:22:11: No IP Change detected
+30/07/2019 13:23:11: No IP Change detected
+30/07/2019 13:24:11: No IP Change detected
+30/07/2019 13:25:11: No IP Change detected
+30/07/2019 13:26:11: No IP Change detected
+30/07/2019 13:27:11: No IP Change detected
+30/07/2019 13:28:11: No IP Change detected
+30/07/2019 13:29:11: No IP Change detected
+30/07/2019 13:30:11: No IP Change detected
+30/07/2019 13:31:11: No IP Change detected
+30/07/2019 13:32:11: No IP Change detected
+30/07/2019 13:33:11: No IP Change detected
+30/07/2019 13:34:11: No IP Change detected
+30/07/2019 13:35:14: No IP Change detected
+30/07/2019 13:36:11: No IP Change detected
+30/07/2019 13:37:11: No IP Change detected
+30/07/2019 13:38:11: No IP Change detected
+30/07/2019 13:39:11: No IP Change detected
+30/07/2019 13:40:11: No IP Change detected
+30/07/2019 13:41:11: No IP Change detected
+30/07/2019 13:42:11: No IP Change detected
+30/07/2019 13:43:11: No IP Change detected
+30/07/2019 13:44:11: No IP Change detected
+30/07/2019 13:45:11: No IP Change detected
+30/07/2019 13:46:11: No IP Change detected
+30/07/2019 13:47:11: No IP Change detected
+30/07/2019 13:48:11: No IP Change detected
+30/07/2019 13:49:11: No IP Change detected
+30/07/2019 13:50:11: No IP Change detected
+30/07/2019 13:51:11: No IP Change detected
+30/07/2019 13:52:11: No IP Change detected
+30/07/2019 13:53:11: No IP Change detected
+30/07/2019 13:54:11: No IP Change detected
+30/07/2019 13:55:11: No IP Change detected
+30/07/2019 13:56:11: No IP Change detected
+30/07/2019 13:57:11: No IP Change detected
+30/07/2019 13:58:11: No IP Change detected
+30/07/2019 13:59:11: No IP Change detected
+30/07/2019 14:00:14: No IP Change detected
+30/07/2019 14:01:11: No IP Change detected
+30/07/2019 14:02:11: No IP Change detected
+30/07/2019 14:03:11: No IP Change detected
+30/07/2019 14:04:11: No IP Change detected
+30/07/2019 14:05:11: No IP Change detected
+30/07/2019 14:06:11: No IP Change detected
+30/07/2019 14:07:11: No IP Change detected
+30/07/2019 14:08:11: No IP Change detected
+30/07/2019 14:09:11: No IP Change detected
+30/07/2019 14:10:11: No IP Change detected
+30/07/2019 14:11:11: No IP Change detected
+30/07/2019 14:12:11: No IP Change detected
+30/07/2019 14:13:11: No IP Change detected
+30/07/2019 14:14:11: No IP Change detected
+30/07/2019 14:15:11: No IP Change detected
+30/07/2019 14:16:11: No IP Change detected
+30/07/2019 14:17:14: No IP Change detected
+30/07/2019 14:18:11: No IP Change detected
+30/07/2019 14:19:11: No IP Change detected
+30/07/2019 14:20:11: No IP Change detected
+30/07/2019 14:21:11: No IP Change detected
+30/07/2019 14:22:11: No IP Change detected
+30/07/2019 14:23:11: No IP Change detected
+30/07/2019 14:24:11: No IP Change detected
+30/07/2019 14:25:11: No IP Change detected
+30/07/2019 14:26:11: No IP Change detected
+30/07/2019 14:27:11: No IP Change detected
+30/07/2019 14:28:11: No IP Change detected
+30/07/2019 14:29:11: No IP Change detected
+30/07/2019 14:30:11: No IP Change detected
+30/07/2019 14:31:11: No IP Change detected
+30/07/2019 14:32:14: No IP Change detected
+30/07/2019 14:33:11: No IP Change detected
+30/07/2019 14:34:11: No IP Change detected
+30/07/2019 14:35:11: No IP Change detected
+30/07/2019 14:36:14: No IP Change detected
+30/07/2019 14:37:11: No IP Change detected
+30/07/2019 14:38:11: No IP Change detected
+30/07/2019 14:39:11: No IP Change detected
+30/07/2019 14:40:11: No IP Change detected
+30/07/2019 14:41:11: No IP Change detected
+30/07/2019 14:42:11: No IP Change detected
+30/07/2019 14:43:11: No IP Change detected
+30/07/2019 14:44:11: No IP Change detected
+30/07/2019 14:45:11: No IP Change detected
+30/07/2019 14:46:11: No IP Change detected
+30/07/2019 14:47:11: No IP Change detected
+30/07/2019 14:48:11: No IP Change detected
+30/07/2019 14:49:11: No IP Change detected
+30/07/2019 14:50:11: No IP Change detected
+30/07/2019 14:51:11: No IP Change detected
+30/07/2019 14:52:11: No IP Change detected
+30/07/2019 14:53:11: No IP Change detected
+30/07/2019 14:54:11: No IP Change detected
+30/07/2019 14:55:11: No IP Change detected
+30/07/2019 14:56:11: No IP Change detected
+30/07/2019 14:57:20: No IP Change detected
+30/07/2019 14:58:11: No IP Change detected
+30/07/2019 14:59:11: No IP Change detected
+30/07/2019 15:00:11: No IP Change detected
+30/07/2019 15:01:11: No IP Change detected
+30/07/2019 15:02:11: No IP Change detected
+30/07/2019 15:03:11: No IP Change detected
+30/07/2019 15:04:11: No IP Change detected
+30/07/2019 15:05:11: No IP Change detected
+30/07/2019 15:06:11: No IP Change detected
+30/07/2019 15:07:11: No IP Change detected
+30/07/2019 15:08:11: No IP Change detected
+30/07/2019 15:09:11: No IP Change detected
+30/07/2019 15:10:11: No IP Change detected
+30/07/2019 15:11:11: No IP Change detected
+30/07/2019 15:12:11: No IP Change detected
+30/07/2019 15:13:11: No IP Change detected
+30/07/2019 15:14:11: No IP Change detected
+30/07/2019 15:15:11: No IP Change detected
+30/07/2019 15:16:11: No IP Change detected
+30/07/2019 15:17:11: No IP Change detected
+30/07/2019 15:18:11: No IP Change detected
+30/07/2019 15:19:11: No IP Change detected
+30/07/2019 15:20:11: No IP Change detected
+30/07/2019 15:21:11: No IP Change detected
+30/07/2019 15:22:11: No IP Change detected
+30/07/2019 15:23:11: No IP Change detected
+30/07/2019 15:24:11: No IP Change detected
+30/07/2019 15:25:11: No IP Change detected
+30/07/2019 15:26:11: No IP Change detected
+30/07/2019 15:27:11: No IP Change detected
+30/07/2019 15:28:11: No IP Change detected
+30/07/2019 15:29:11: No IP Change detected
+30/07/2019 15:30:11: No IP Change detected
+30/07/2019 15:31:11: No IP Change detected
+30/07/2019 15:32:11: No IP Change detected
+30/07/2019 15:33:11: No IP Change detected
+30/07/2019 15:34:11: No IP Change detected
+30/07/2019 15:35:11: No IP Change detected
+30/07/2019 15:36:11: No IP Change detected
+30/07/2019 15:37:11: No IP Change detected
+30/07/2019 15:38:11: No IP Change detected
+30/07/2019 15:39:11: No IP Change detected
+30/07/2019 15:40:11: No IP Change detected
+30/07/2019 15:41:11: No IP Change detected
+30/07/2019 15:42:11: No IP Change detected
+30/07/2019 15:43:11: No IP Change detected
+30/07/2019 15:44:11: No IP Change detected
+30/07/2019 15:45:11: No IP Change detected
+30/07/2019 15:46:11: No IP Change detected
+30/07/2019 15:47:11: No IP Change detected
+30/07/2019 15:48:11: No IP Change detected
+30/07/2019 15:49:11: No IP Change detected
+30/07/2019 15:50:11: No IP Change detected
+30/07/2019 15:51:13: No IP Change detected
+30/07/2019 15:52:11: No IP Change detected
+30/07/2019 15:53:11: No IP Change detected
+30/07/2019 15:54:10: No IP Change detected
+30/07/2019 15:55:13: No IP Change detected
+30/07/2019 15:56:10: No IP Change detected
+30/07/2019 15:57:11: No IP Change detected
+30/07/2019 15:58:10: No IP Change detected
+30/07/2019 15:59:10: No IP Change detected
+30/07/2019 16:00:10: No IP Change detected
+30/07/2019 16:01:10: No IP Change detected
+30/07/2019 16:02:14: No IP Change detected
+30/07/2019 16:03:11: No IP Change detected
+30/07/2019 16:04:10: No IP Change detected
+30/07/2019 16:05:11: No IP Change detected
+30/07/2019 16:06:10: No IP Change detected
+30/07/2019 16:07:11: No IP Change detected
+30/07/2019 16:08:11: No IP Change detected
+30/07/2019 16:09:11: No IP Change detected
+30/07/2019 16:10:11: No IP Change detected
+30/07/2019 16:11:11: No IP Change detected
+30/07/2019 16:12:10: No IP Change detected
+30/07/2019 16:13:10: No IP Change detected
+30/07/2019 16:14:11: No IP Change detected
+30/07/2019 16:15:11: No IP Change detected
+30/07/2019 16:16:11: No IP Change detected
+30/07/2019 16:17:11: No IP Change detected
+30/07/2019 16:18:11: No IP Change detected
+30/07/2019 16:19:10: No IP Change detected
+30/07/2019 16:20:10: No IP Change detected
+30/07/2019 16:21:11: No IP Change detected
+30/07/2019 16:22:10: No IP Change detected
+30/07/2019 16:23:10: No IP Change detected
+30/07/2019 16:24:11: No IP Change detected
+30/07/2019 16:25:10: No IP Change detected
+30/07/2019 16:26:10: No IP Change detected
+30/07/2019 16:27:11: No IP Change detected
+30/07/2019 16:28:11: No IP Change detected
+30/07/2019 16:29:11: No IP Change detected
+30/07/2019 16:30:10: No IP Change detected
+30/07/2019 16:31:10: No IP Change detected
+30/07/2019 16:32:11: No IP Change detected
+30/07/2019 16:33:10: No IP Change detected
+30/07/2019 16:34:10: No IP Change detected
+30/07/2019 16:35:10: No IP Change detected
+30/07/2019 16:36:10: No IP Change detected
+30/07/2019 16:37:10: No IP Change detected
+30/07/2019 16:38:10: No IP Change detected
+30/07/2019 16:39:13: No IP Change detected
+30/07/2019 16:40:10: No IP Change detected
+30/07/2019 16:41:10: No IP Change detected
+30/07/2019 16:42:10: No IP Change detected
+30/07/2019 16:43:13: No IP Change detected
+30/07/2019 16:44:11: No IP Change detected
+30/07/2019 16:45:11: No IP Change detected
+30/07/2019 16:46:10: No IP Change detected
+30/07/2019 16:47:10: No IP Change detected
+30/07/2019 16:48:10: No IP Change detected
+30/07/2019 16:49:10: No IP Change detected
+30/07/2019 16:50:11: No IP Change detected
+30/07/2019 16:51:11: No IP Change detected
+30/07/2019 16:52:10: No IP Change detected
+30/07/2019 16:53:10: No IP Change detected
+30/07/2019 16:54:10: No IP Change detected
+30/07/2019 16:55:10: No IP Change detected
+30/07/2019 16:56:10: No IP Change detected
+30/07/2019 16:57:10: No IP Change detected
+30/07/2019 16:58:10: No IP Change detected
+30/07/2019 16:59:10: No IP Change detected
+30/07/2019 17:00:10: No IP Change detected
+30/07/2019 17:01:10: No IP Change detected
+30/07/2019 17:02:10: No IP Change detected
+30/07/2019 17:03:10: No IP Change detected
+30/07/2019 17:04:10: No IP Change detected
+30/07/2019 17:05:10: No IP Change detected
+30/07/2019 17:06:11: No IP Change detected
+30/07/2019 17:07:10: No IP Change detected
+30/07/2019 17:08:10: No IP Change detected
+30/07/2019 17:09:10: No IP Change detected
+30/07/2019 17:10:10: No IP Change detected
+30/07/2019 17:11:10: No IP Change detected
+30/07/2019 17:12:10: No IP Change detected
+30/07/2019 17:13:10: No IP Change detected
+30/07/2019 17:14:10: No IP Change detected
+30/07/2019 17:15:10: No IP Change detected
+30/07/2019 17:16:10: No IP Change detected
+30/07/2019 17:17:10: No IP Change detected
+30/07/2019 17:18:10: No IP Change detected
+30/07/2019 17:19:10: No IP Change detected
+30/07/2019 17:20:10: No IP Change detected
+30/07/2019 17:21:10: No IP Change detected
+30/07/2019 17:22:10: No IP Change detected
+30/07/2019 17:23:10: No IP Change detected
+30/07/2019 17:24:10: No IP Change detected
+30/07/2019 17:25:11: No IP Change detected
+30/07/2019 17:26:10: No IP Change detected
+30/07/2019 17:27:10: No IP Change detected
+30/07/2019 17:28:10: No IP Change detected
+30/07/2019 17:29:10: No IP Change detected
+30/07/2019 17:30:13: No IP Change detected
+30/07/2019 17:31:10: No IP Change detected
+30/07/2019 17:32:10: No IP Change detected
+30/07/2019 17:33:10: No IP Change detected
+30/07/2019 17:34:10: No IP Change detected
+30/07/2019 17:35:10: No IP Change detected
+30/07/2019 17:36:10: No IP Change detected
+30/07/2019 17:37:10: No IP Change detected
+30/07/2019 17:38:10: No IP Change detected
+30/07/2019 17:39:10: No IP Change detected
+30/07/2019 17:40:10: No IP Change detected
+30/07/2019 17:41:10: No IP Change detected
+30/07/2019 17:42:10: No IP Change detected
+30/07/2019 17:43:10: No IP Change detected
+30/07/2019 17:44:10: No IP Change detected
+30/07/2019 17:45:10: No IP Change detected
+30/07/2019 17:46:10: No IP Change detected
+30/07/2019 17:47:10: No IP Change detected
+30/07/2019 17:48:10: No IP Change detected
+30/07/2019 17:49:11: No IP Change detected
+30/07/2019 17:50:10: No IP Change detected
+30/07/2019 17:51:10: No IP Change detected
+30/07/2019 17:52:10: No IP Change detected
+30/07/2019 17:53:10: No IP Change detected
+30/07/2019 17:54:10: No IP Change detected
+30/07/2019 17:54:45: GoDaddy DNS Service Stopped <--!
+30/07/2019 17:55:44: GoDaddy DNS Service Started
+30/07/2019 17:56:08: GoDaddy DNS Service Stopped <--!
+30/07/2019 17:56:14: GoDaddy DNS Service Started
+30/07/2019 17:57:12: GoDaddy DNS Service Started
+30/07/2019 17:57:14: GoDaddy DNS Service Stopped <--!
+30/07/2019 17:57:17: GoDaddy DNS Service Started
+30/07/2019 17:59:23: GoDaddy DNS Service Started
+30/07/2019 17:59:27: GoDaddy DNS Service Stopped <--!
+30/07/2019 17:59:49: GoDaddy DNS Service Started
+30/07/2019 18:00:08: GoDaddy DNS Service Stopped <--!
+30/07/2019 18:01:06: GoDaddy DNS Service Started
+30/07/2019 18:04:34: GoDaddy DNS Service Started
+30/07/2019 18:05:56: Object reference not set to an instance of an object.
+30/07/2019 18:06:47: Object reference not set to an instance of an object.
+30/07/2019 18:06:57: Object reference not set to an instance of an object.
+30/07/2019 18:15:04: Object reference not set to an instance of an object.
+30/07/2019 18:15:04: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 18:15:04: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 18:15:24: GoDaddy DNS Service Stopped <--!
+30/07/2019 18:15:28: GoDaddy DNS Service Started
+30/07/2019 18:19:35: Object reference not set to an instance of an object.
+30/07/2019 18:19:35: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 18:19:37: GoDaddy DNS Service Stopped <--!
+30/07/2019 18:20:04: GoDaddy DNS Service Started
+30/07/2019 18:20:39: Object reference not set to an instance of an object.
+30/07/2019 18:21:49: Object reference not set to an instance of an object.
+30/07/2019 18:22:03: Object reference not set to an instance of an object.
+30/07/2019 18:22:22: Object reference not set to an instance of an object.
+30/07/2019 18:22:49: Object reference not set to an instance of an object.
+30/07/2019 18:23:19: Object reference not set to an instance of an object.
+30/07/2019 18:23:49: Object reference not set to an instance of an object.
+30/07/2019 18:24:19: Object reference not set to an instance of an object.
+30/07/2019 18:24:49: Object reference not set to an instance of an object.
+30/07/2019 18:25:02: GoDaddy DNS Service Stopped <--!
+30/07/2019 18:25:06: GoDaddy DNS Service Started
+30/07/2019 18:25:36: 
+30/07/2019 18:26:50: GoDaddy DNS Service Started
+30/07/2019 18:28:20: GoDaddy DNS Service Stopped <--!
+30/07/2019 18:28:24: GoDaddy DNS Service Started
+30/07/2019 18:28:48: GoDaddy DNS Service Stopped <--!
+30/07/2019 18:28:52: GoDaddy DNS Service Started
+30/07/2019 18:28:56: GoDaddy DNS Service Stopped <--!
+30/07/2019 18:30:18: GoDaddy DNS Service Started
+30/07/2019 18:32:01: GoDaddy DNS Service Stopped <--!
+30/07/2019 18:50:54: GoDaddy DNS Service Started
+30/07/2019 19:15:48: dKsogN6HuAkp_FCbrKDPaJiFe7mFhF97N7b
+30/07/2019 19:20:40: GoDaddy DNS Service Started
+30/07/2019 19:23:52: dKsogN6HuAkp_FCbrKDPaJiFe7mFhF97N7b
+30/07/2019 19:24:30: dKsogN6HuAkp_FCbrKDPaJiFe7mFhF97N7b
+30/07/2019 19:26:12: dKsogN6HuAkp_FCbrKDPaJiFe7mFhF97N7b
+30/07/2019 19:26:35: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 19:28:25: dKsogN6HuAkp_FCbrKDPaJiFe7mFhF97N7b
+30/07/2019 19:28:56: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:28:57: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:28:57: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:28:57: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:28:57: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:29:10: dKsogN6HuAkp_FCbrKDPaJiFe7mFhF97N7b
+30/07/2019 19:29:14: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:29:40: dKsogN6HuAkp_FCbrKDPaJiFe7mFhF97N7b
+30/07/2019 19:29:41: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:29:43: GoDaddy DNS Service Stopped <--!
+30/07/2019 19:29:49: GoDaddy DNS Service Started
+30/07/2019 19:30:21: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:30:51: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:31:00: GoDaddy DNS Service Stopped <--!
+30/07/2019 19:31:46: GoDaddy DNS Service Started
+30/07/2019 19:37:21: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:38:05: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:38:29: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:38:31: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:38:49: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:38:49: Unable to connect to the remote server
+30/07/2019 19:38:49: Object reference not set to an instance of an object.
+30/07/2019 19:38:50: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:39:08: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:39:32: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:39:35: GoDaddy DNS Service Stopped <--!
+30/07/2019 19:40:18: GoDaddy DNS Service Started
+30/07/2019 19:40:25: GoDaddy DNS A Record updated: 94.2.128.193
+30/07/2019 19:40:30: No IP Change detected
+30/07/2019 19:40:36: No IP Change detected
+30/07/2019 19:40:42: No IP Change detected
+30/07/2019 19:40:47: GoDaddy DNS Service Stopped <--!
+30/07/2019 19:42:33: GoDaddy DNS Service Started
+30/07/2019 19:42:40: No IP Change detected
+30/07/2019 19:42:45: No IP Change detected
+30/07/2019 19:42:51: No IP Change detected
+30/07/2019 19:42:57: No IP Change detected
+30/07/2019 19:43:03: No IP Change detected
+30/07/2019 19:43:09: No IP Change detected
+30/07/2019 19:43:15: No IP Change detected
+30/07/2019 19:43:21: No IP Change detected
+30/07/2019 19:43:27: No IP Change detected
+30/07/2019 19:43:33: No IP Change detected
+30/07/2019 19:43:39: No IP Change detected
+30/07/2019 19:43:45: No IP Change detected
+30/07/2019 19:43:51: No IP Change detected
+30/07/2019 19:43:57: No IP Change detected
+30/07/2019 19:44:03: No IP Change detected
+30/07/2019 19:44:09: No IP Change detected
+30/07/2019 19:44:15: No IP Change detected
+30/07/2019 19:44:21: No IP Change detected
+30/07/2019 19:46:12: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:47:06: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:50:42: A task was canceled.
+30/07/2019 19:50:42: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 19:50:43: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 19:50:43: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 19:50:44: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 19:50:44: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 19:50:44: The process cannot access the file 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\Logfile.txt' because it is being used by another process.
+30/07/2019 19:53:25: GoDaddy DNS Service Started
+30/07/2019 19:53:32: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:53:44: API request failed with the reponse: Unprocessable Entity
+30/07/2019 19:53:49: GoDaddy DNS Service Stopped <--!
+30/07/2019 19:53:55: GoDaddy DNS Service Started
+30/07/2019 19:54:31: GoDaddy DNS A Record updated: 94.2.128.193
+30/07/2019 19:54:31: GoDaddy DNS A Record updated: 94.2.128.193
+30/07/2019 19:54:31: No IP Change detected
+30/07/2019 19:54:37: GoDaddy DNS A Record updated: 94.2.128.193
+30/07/2019 19:54:37: GoDaddy DNS A Record updated: 94.2.128.193
+30/07/2019 19:54:37: GoDaddy DNS A Record updated: 94.2.128.193
+30/07/2019 19:54:37: No IP Change detected
+30/07/2019 19:54:49: No IP Change detected
+30/07/2019 19:54:52: No IP Change detected
+30/07/2019 19:54:56: No IP Change detected
+30/07/2019 19:55:04: No IP Change detected
+30/07/2019 19:55:08: No IP Change detected
+30/07/2019 19:55:14: No IP Change detected
+30/07/2019 19:55:20: No IP Change detected
+30/07/2019 19:55:26: No IP Change detected
+30/07/2019 19:55:32: No IP Change detected
+30/07/2019 19:55:38: No IP Change detected
+30/07/2019 19:55:44: No IP Change detected
+30/07/2019 19:55:50: No IP Change detected
+30/07/2019 19:55:56: No IP Change detected
+30/07/2019 19:56:02: No IP Change detected
+30/07/2019 19:56:08: No IP Change detected
+30/07/2019 19:56:14: No IP Change detected
+30/07/2019 19:56:20: No IP Change detected
+30/07/2019 19:56:26: No IP Change detected
+30/07/2019 19:56:32: No IP Change detected
+30/07/2019 19:56:38: No IP Change detected
+30/07/2019 19:56:44: No IP Change detected
+30/07/2019 19:56:50: No IP Change detected
+30/07/2019 19:56:56: No IP Change detected
+30/07/2019 19:57:02: No IP Change detected
+30/07/2019 19:57:08: No IP Change detected
+30/07/2019 19:57:12: GoDaddy DNS Service Stopped <--!
+30/07/2019 19:58:27: GoDaddy DNS Service Started
+30/07/2019 19:58:34: No IP Change detected
+30/07/2019 19:58:40: No IP Change detected
+30/07/2019 19:58:46: No IP Change detected
+30/07/2019 19:58:52: No IP Change detected
+30/07/2019 19:58:58: No IP Change detected
+30/07/2019 19:59:04: No IP Change detected
+30/07/2019 19:59:10: No IP Change detected
+30/07/2019 19:59:11: GoDaddy DNS Service Stopped <--!
+30/07/2019 19:59:13: GoDaddy DNS Service Started
+30/07/2019 19:59:19: No IP Change detected
+30/07/2019 19:59:25: No IP Change detected
+30/07/2019 19:59:28: GoDaddy DNS Service Stopped <--!
+30/07/2019 20:00:32: GoDaddy DNS Service Started
+30/07/2019 20:00:39: No IP Change detected
+30/07/2019 20:00:41: GoDaddy DNS Service Stopped <--!
+30/07/2019 20:00:55: GoDaddy DNS Service Started
+30/07/2019 20:01:02: No IP Change detected
+30/07/2019 20:01:08: No IP Change detected
+30/07/2019 20:01:14: No IP Change detected
+30/07/2019 20:01:20: No IP Change detected
+30/07/2019 20:01:26: No IP Change detected
+30/07/2019 20:01:32: No IP Change detected
+30/07/2019 20:01:38: No IP Change detected
+30/07/2019 20:01:44: No IP Change detected
+30/07/2019 20:01:50: No IP Change detected
+30/07/2019 20:01:50: GoDaddy DNS Service Stopped <--!

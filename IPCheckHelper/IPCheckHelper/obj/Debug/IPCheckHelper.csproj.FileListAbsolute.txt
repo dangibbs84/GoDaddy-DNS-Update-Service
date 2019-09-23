@@ -1,0 +1,15 @@
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\IPCheckHelper.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\IPCheckHelper.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\AppConf.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\GoDaddyAPIClient.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\Logger.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\AppConf.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\GoDaddyAPIClient.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\Logger.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\obj\Debug\IPCheckHelper.csprojAssemblyReference.cache
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\obj\Debug\IPCheckHelper.csproj.CoreCompileInputs.cache
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\obj\Debug\IPCheckHelper.csproj.CopyComplete
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\obj\Debug\IPCheckHelper.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\IPCheckHelper\IPCheckHelper\obj\Debug\IPCheckHelper.pdb

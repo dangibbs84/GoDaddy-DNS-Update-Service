@@ -1,0 +1,9 @@
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\bin\Debug\AppConf.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\bin\Debug\AppConf.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\bin\Debug\Logger.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\bin\Debug\Logger.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\obj\Debug\AppConf.csprojAssemblyReference.cache
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\obj\Debug\AppConf.csproj.CoreCompileInputs.cache
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\obj\Debug\AppConf.csproj.CopyComplete
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\obj\Debug\AppConf.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\AppConf\AppConf\obj\Debug\AppConf.pdb

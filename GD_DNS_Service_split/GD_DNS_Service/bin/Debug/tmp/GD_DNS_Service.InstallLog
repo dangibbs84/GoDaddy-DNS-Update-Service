@@ -1,0 +1,36 @@
+﻿Installing assembly 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe
+   logfile = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.InstallLog
+Installing service GoDaddy UpdateTool...
+Service GoDaddy UpdateTool has been successfully installed.
+Creating EventLog source GoDaddy UpdateTool in log Application...
+Committing assembly 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe
+   logfile = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.InstallLog
+Uninstalling assembly 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe
+   logfile = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.InstallLog
+Removing EventLog source GoDaddy UpdateTool.
+Service GoDaddy UpdateTool is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe
+   logfile = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.InstallLog
+Installing service GoDaddy UpdateTool...
+Service GoDaddy UpdateTool has been successfully installed.
+Creating EventLog source GoDaddy UpdateTool in log Application...
+Committing assembly 'C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.exe
+   logfile = C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GD_DNS_Service\GD_DNS_Service\bin\Debug\GD_DNS_Service.InstallLog

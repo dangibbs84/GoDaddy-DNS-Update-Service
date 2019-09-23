@@ -1,0 +1,15 @@
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\GoDaddyAPIClient.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\GoDaddyAPIClient.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\AppConf.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\Json.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\Logger.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\AppConf.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\Json.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\Logger.pdb
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\obj\Debug\GoDaddyAPIClient.csprojAssemblyReference.cache
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\obj\Debug\GoDaddyAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\obj\Debug\GoDaddyAPIClient.csproj.CopyComplete
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\obj\Debug\GoDaddyAPIClient.dll
+C:\Users\nfdg\Documents\Visual Studio 2017\Projects\GoDaddyAPIClient\GoDaddyAPIClient\obj\Debug\GoDaddyAPIClient.pdb
